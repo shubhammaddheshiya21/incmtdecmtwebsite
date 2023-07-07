@@ -1,0 +1,72 @@
+.main_div {
+  width: 100%;
+  height: 100vh;
+  background: rgb(10, 236, 10);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.center_div {
+  width: 20%;
+  height: 40vh;
+  /* background: #fd989c; */
+  background-color: #f4f4f4;
+  box-shadow: 5px 5px 25px -5px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  /* display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center; */
+}
+
+h1 {
+  color: white;
+  background: transparent;
+  font-size: 70px;
+  /* text-shadow: 0 2px 2px black; */
+  color: black;
+  padding: 6px 0 2px 0;
+  margin-bottom: 10px;
+  width: 100%;
+  box-shadow: 5px 5px -15px 5px rgba(0, 0, 0, 0.3);
+}
+
+button {
+  min-height: 40px;
+  /* width: 40px; */
+  border-radius: 5%;
+  border-color: transparent;
+  background-color: #30336b;
+  color: #fff;
+  font-size: 20px;
+  border: none;
+  outline: none;
+  padding: 0 15px;
+  margin-top: 30px;
+  /* margin-left: 10px; */
+  box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+
+button:hover {
+  background-color: #22a6b3;
+}
+
+.btn_div {
+  width: 100%;
+  height: 15vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.btn_green:hover {
+  color: #2ed573;
+}
+
+.btn_red:hover {
+  color: #ff4757;
+}
+
