@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/incmtdecmtwebsite/static/css/main.1a709931.css",
+    "main.js": "/incmtdecmtwebsite/static/js/main.e406f958.js",
+    "index.html": "/incmtdecmtwebsite/index.html",
+    "main.1a709931.css.map": "/incmtdecmtwebsite/static/css/main.1a709931.css.map",
+    "main.e406f958.js.map": "/incmtdecmtwebsite/static/js/main.e406f958.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a709931.css",
+    "static/js/main.e406f958.js"
+  ]
+}
